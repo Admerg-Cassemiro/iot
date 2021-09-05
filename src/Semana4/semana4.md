@@ -1,6 +1,6 @@
 # SEMANA 4
 
-![Experimento da Semana 4](./../../image/Semana4/semana4.gif)
+[![Experimento da Semana 4](./../../image/Semana4/semana4_GIF.gif)](./../../image/Semana4/semana4.jpg)
 
 **Microcontroladores:**
 - ATmega2560 (Arduino Mega 2560)
