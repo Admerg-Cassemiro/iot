@@ -29,3 +29,5 @@ Conexão | PIC18F45K20 | Arduino Mega
 MISO | RC4 | 50
 MOSI | RC5 | 51
 SCLK | RC3 | 52
+
+[Vídeo explicativo](https://drive.google.com/file/d/1PZxywAUJUr2PMF8q2pGVyp7tlt2PoI92/view?usp=sharing)
